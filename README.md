@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h2 align="center">Active Repo</h2>
 <p align="center"><a href="https://github.com/iamlazy123/latom_kernel_gingko"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamlazy123&repo=latom_kernel_gingko&show_owner=false&theme=cobalt"></a></p>
 <p align="center"><a href="https://github.com/iamlazy123/Pandora-s-Box"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamlazy123&repo=Pandora-s-Box&show_owner=false&theme=cobalt"></a></p>
-<p align="center"><a href="https://github.com/iamlazy123/latom_kernel_surya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamlazy123&repo=latom_kernel_surya&show_owner=false&theme=cobalt"></a></p>
+<p align="center"><a href="https://github.com/iamlazy123/blink_kernel_surya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iamlazy123&repo=blink_kernel_surya&show_owner=false&theme=cobalt"></a></p>
 
 
 <h2 align="left"> Stats </h2>
